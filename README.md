@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+#  About Me:
 # Hi, I'm Palanki Manoj 👋<br><br>🎯 Aspiring Data Analyst | SQL | Python | Power BI | Excel<br><br>I'm a Data Analyst  focused on turning raw data into meaningful business insights.  Strong foundations in SQL, Python, Excel, Power BI, Statistics, and Business Analytics.<br><br>## 🛠️ Skills<br>- SQL <br>- Python<br>- Excel<br>- Power BI<br>- Data Cleaning<br>- Data Visualization<br>- Business Analysis<br>- Statistics<br><br>## 🎯 Career Goal<br>To become a job-ready Data Analyst and work on data-driven business problems while continuously improving my analytical, communication, and problem-solving skills.<br><br>## 🌐 Connect With Me<br>- LinkedIn: https://www.linkedin.com/in/manoj-palanki/<br>- Portfolio: https://manoj-palanki.vercel.app<br><br>---<br>*"Data is valuable only when transformed into actionable insights."*
 
 
